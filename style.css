@@ -1,8 +1,8 @@
 :root{
-    --cor-fundo: #01080E ;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333; 
-    --cor-destaque: #2BDEFD;
+    --cor-fundo: #990a0a ;
+    --cor-principal: #94001b ;
+    --cor-secundaria: #690202; 
+    --cor-destaque: #db3a3a;
     --cor-texto: #D7F9FF;
 
 }
@@ -39,20 +39,20 @@ button {
   transition: all 0.5s;
   font-size: 17px;
   padding: 1ch 2ch;
-  background-color: rgb(81, 149, 216);
+  background-color: rgb(151, 1, 1);
   color: #000;
   cursor: pointer;
   border: none;
   border-radius: 2px;
   box-shadow:
-    2px 2px 0px hsl(197, 77%, 55%),
-    4px 4px 0px hsl(199, 73%, 59%),
-    6px 6px 0px hsl(219, 79%, 69%),
-    8px 8px 0px hsl(202, 57%, 53%),
-    10px 10px 0px hsl(220, 78%, 66%),
-    12px 12px 0px hsl(201, 75%, 60%),
-    14px 14px 0px hsl(214, 73%, 65%),
-    16px 16px 0px hsl(220, 80%, 30%),
+    2px 2px 0px hsl(357, 96%, 28%),
+    4px 4px 0px hsl(0, 81%, 44%),
+    6px 6px 0px hsl(0, 71%, 56%),
+    8px 8px 0px hsl(356, 55%, 52%),
+    10px 10px 0px hsl(0, 73%, 40%),
+    12px 12px 0px hsl(0, 74%, 40%),
+    14px 14px 0px hsl(0, 79%, 41%),
+    16px 16px 0px hsl(0, 79%, 43%),
     18px 18px 0px hsl(0, 0%, 10%);
 }
 
@@ -69,14 +69,15 @@ transition: all 0.5s;
   border: none;
   border-radius: 2px;
   box-shadow:
-    2px 2px 0px hsl(197, 77%, 55%),
-    4px 4px 0px hsl(199, 73%, 59%),
-    6px 6px 0px hsl(219, 79%, 69%),
-    8px 8px 0px hsl(202, 57%, 53%),
-    10px 10px 0px hsl(220, 78%, 66%),
-    12px 12px 0px hsl(201, 75%, 60%),
-    14px 14px 0px hsl(214, 73%, 65%),
-    16px 16px 0px hsl(220, 80%, 30%),
+ 2px 2px 0px hsl(357, 96%, 28%),
+    4px 4px 0px hsl(0, 81%, 44%),
+    6px 6px 0px hsl(0, 71%, 56%),
+    8px 8px 0px hsl(356, 55%, 52%),
+    10px 10px 0px hsl(0, 73%, 40%),
+    12px 12px 0px hsl(0, 74%, 40%),
+    14px 14px 0px hsl(0, 79%, 41%),
+    16px 16px 0px hsl(0, 79%, 43%),
+    18px 18px 0px hsl(0, 0%, 10%);
 }
 
 
